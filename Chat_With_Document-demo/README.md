@@ -1,6 +1,3 @@
-(The file `c:\\Users\\aditi\\Downloads\\Chat_With_Document-demo\\README.md` exists, but is empty)
-# Chat With Document — RAG demo
-
 A small Flask demo showing Retrieval-Augmented Generation (RAG): upload PDF documents, create embeddings and a FAISS index, then ask questions and get answers grounded in your documents.
 
 This project demonstrates a practical RAG pipeline combining:
