@@ -99,8 +99,3 @@ This ensures answers are grounded in the uploaded documents, and the prompt expl
 - Add async background processing for uploads and indexing.
 - Add per-document provenance in responses (link answers to document name + page number).
 
----
-
-If you'd like, I can also add a sample test PDF, or wire up persistent storage for FAISS so indexes survive restarts — tell me which next and I’ll implement it.
-
-Enjoy! ✅
